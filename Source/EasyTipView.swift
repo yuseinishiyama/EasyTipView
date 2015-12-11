@@ -59,13 +59,13 @@ public class EasyTipView: UIView {
     // MARK:- Constants -
     
     private struct Constants {
-        static let arrowHeight          :   CGFloat =   5
-        static let arrowWidth           :   CGFloat =   10
+        static let arrowHeight          :   CGFloat =   10
+        static let arrowWidth           :   CGFloat =   20
         static let bubbleHInset         :   CGFloat =   10
         static let bubbleVInset         :   CGFloat =   1
-        static let textHInset           :   CGFloat =   10
-        static let textVInset           :   CGFloat =   5
-        static let bubbleCornerRadius   :   CGFloat =   5
+        static let textHInset           :   CGFloat =   80
+        static let textVInset           :   CGFloat =   30
+        static let bubbleCornerRadius   :   CGFloat =   10
         static let maxWidth             :   CGFloat =   200
     }
     
